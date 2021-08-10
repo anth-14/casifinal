@@ -1,0 +1,62 @@
+.formulario{
+    width: 390px;
+    height: 480px;
+    border-radius: 8px;
+    /* background:rgb(247,240,240); */
+    background: rgb(201,220,223);
+    background: linear-gradient(90deg, rgba(201,220,223,1) 0%, rgba(255,255,255,1) 27%, rgba(201,220,223,1) 100%);
+    border: 1px solid rgb(226, 228,216);
+    padding: 10px;
+    margin-top: 23px;
+    margin-left: 34px;
+}
+label{
+    color:rgb(17, 16, 16);
+    font-size: 23px;
+    font-family: 'OpenSans-Regular';
+    font-weight: 800;
+    padding: 4px;
+    margin-top: 3px;
+    text-shadow: 2px 3px 2px rgb(221, 218, 218);
+}
+textarea{
+width: 390px;
+height: 190px;
+border:1px solid #fff;
+border-radius: 4px;
+margin-top: 12px;
+}
+.btton{
+  color:#fff;
+  width: 90px;
+  height: 40px;
+  margin-top: 70px;
+  padding: 10px;
+  border: 1px solid #000;
+  background: #c01627;
+  text-align: center;  
+  margin-left: 10px;
+  border-radius: 3px;
+}
+btton:hover{
+  font-weight: 300;
+  color:rgb(26,24,24);
+  background: #ade268;
+  cursor: pointer;
+  transition: .6s;
+  border:1px solid #fff;
+}
+input{
+  width: 230px;
+  height: 20px;
+  float: right;
+  padding: 2px;
+  border-radius: 3px;
+  border:1px solid #fff;
+}
+input:hover{
+  background: #f3f3f5;
+  transition: .6s;
+  border:1px solid #014cf0;
+  box-shadow: -2px 3px 2px #555;
+}

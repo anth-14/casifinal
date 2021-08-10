@@ -1,0 +1,172 @@
+/************************** Footer *************************************/
+.foot{
+    height: 280px;
+    background: #313361;
+    color:rgb(39,36,36);
+    grid-column: span 3;
+    border-radius: 3px;
+    border-bottom: 50px solid rgb(59,59,58);
+}
+/* .contenedor .foot{
+    height: 140px;
+    background: rgb(122, 116, 116);
+    color:rgb(39, 36, 36);
+    grid-column: span 3;
+} */
+.contenedor .foote{
+    height: 140px;
+    background: rgb(46, 45, 45);
+    color:rgb(39, 36, 36);
+    grid-column: span 3;
+}
+.infor{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 20px;
+}
+.infor:hover{
+    color:rgb(204, 204, 193);
+    cursor: pointer;
+}
+.prove{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.prove:hover{
+    color:rgb(204, 204, 193);
+    cursor: pointer;
+}
+.tiend{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.tiend:hover{
+    color:rgb(204, 204, 193);
+    cursor: pointer;
+}
+.corro{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.corro:hover{
+    color:rgb(132, 112, 246);
+    cursor: pointer;
+}
+.tell{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.tell:hover{
+    color:rgb(132, 112, 246);
+    cursor: pointer;
+}
+/***************************************************************/
+
+.jd{
+    color:#fff;
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 900;
+    margin-left: 123px;
+    margin-top:20px;
+    width: 90px ;
+    height: 40px ;
+    border-radius: 3px;
+    background: rgb(46, 47, 45);
+    text-align: center;
+    justify-content: center;
+}
+
+.copyjd{
+    color:#fff;
+    font-size: 18px;
+    font-family:'OpenSans-Regular';
+    font-weight: 900;
+    margin-left: 403px;
+    margin-top: 75px;
+}
+
+.servcos{
+    color:#fff;
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 600;
+    margin-left: 423px;
+    margin-top: -40px;
+    position: absolute;
+    z-index: auto;
+}
+/****************Redes sociales*******************************/
+.cardet{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-top:3px;
+  
+}
+.rdsciales{
+    color:#fff;
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 600;
+    margin-left: 753px;
+    margin-top: -20px;
+    position: absolute;
+    z-index: auto;
+}
+
+.tarjet{
+    width: 35px;
+    height: 25px;
+    padding: 8px;
+}
+figure{
+    margin-left: 693px;
+    margin-top: -130px;
+    position: absolute;
+    z-index: auto;
+}
+
+.icon{
+margin-left: 123px;
+}
+.icon1{
+width: 20px;
+height: 20px;
+display: block;
+margin-left: 290px;
+padding: 4px;
+margin-top: -20px;
+}
+.inff{
+    color:#fff;
+    font-size: 13px;
+    margin-left: 323px;
+    font-family: 'OpenSans-Regular';
+    margin-top: 3px;
+}
+.busc{
+    width: 230px;
+    height: 30px;
+    border-radius: 6px;
+    border:1px solid rgb(253,17,253);
+    margin-top: -93px;
+    margin-right: 10px;
+}
+.busc:hover{
+    background: rgb(223,221,221);
+}

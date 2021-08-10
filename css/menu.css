@@ -1,0 +1,131 @@
+ .head{
+    margin:auto;
+    width:100%;
+    padding: 0;
+    font-family:'OpenSans-Regular';
+    margin-top: 1px;
+    /*position: fixed;*/
+} 
+/*
+ul, ol {
+    list-style:none;
+}
+
+.nav {
+    width:100%; 
+    margin:0 auto; 
+    margin-left: 323px;
+    
+}
+
+.nav > li {
+    float:left;
+}
+*/
+.nav li a {
+    background-color:#ffffff;
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+/*
+.nav li a:hover {
+    background-color:#ED68DB;
+    transition: .8s;
+    
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+}
+
+.nav li:hover > ul {
+    display:block;
+}
+
+.nav li ul li {
+    position:relative;
+}
+
+.nav li ul li ul {
+    right:-140px;
+    top:0px;
+} */ 
+/*************** ****************** Menu **************************************/
+.contenedor .head nav{
+    margin-left: 143px;
+}
+.contenedor .head nav ul{
+    display: block;
+}
+.contenedor .head nav ul li{
+    display: block;
+    font-weight: 300;
+} 
+.head nav ul li a:link{
+    text-decoration: underline;
+    text-decoration: none;
+}
+.contenedor .head nav ul li{
+    color:rgb(255, 255, 255);
+    display: inline-block;
+    padding: 8px;
+    margin-left: 13px;
+    margin-top: 59px;
+    font-family: 'Montserrat-Regular';
+}
+.contenedor .head nav li:hover{
+    color:rgb(255, 255, 255);
+    background: rgb(243, 97, 121);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    cursor: pointer;
+    transition: .4s;
+}
+/*************** ****************** Menu Fin **************************************/
+/**********************************Logo********************************************/
+ /* .jdo{
+width: 160px;
+height: 70px;
+position: absolute;
+z-index: auto;
+margin-top: -50px;
+margin-left: 23px;
+}  */
+.jdo{
+    width: 130px;
+    height: 70px;
+    position: absolute;
+    z-index: auto;
+    margin-top: -50px;
+    margin-left: 23px;
+    }
+    /*************************Fin logo*****************************/
+.submenu{
+    width: 790px;
+    height: 50px;
+    background-color: rgb(255,255,255);
+    margin-top: 29px;
+    margin-left: 213px;
+    border-top-left-radius: 123px 104px;
+    position: absolute;
+    z-index: auto;
+}
+.submenu_{
+    width: 790px;
+    height: 50px;
+    background-color:rgb(68,53,53);
+    margin-top: -97px;
+    margin-left: 213px;
+    border-bottom-left-radius: 123px 104px;
+    box-shadow: -2px 3px 2px rgb(224,193,193);
+    position: absolute;
+    z-index: auto;
+} 
+/*********************Letras*************************/
+.letras{
+    color: black;
+}
